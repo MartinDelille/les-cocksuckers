@@ -1,30 +1,28 @@
-
-# The title of your website.
-title: Holo Alfa
+title: Les Cocksuckers
 
 description:
 
   # Description of your site. This will show up in google.
-  meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
+  meta: Les Cocksuckers est un groupe de coq'n roll lyonnais foutraque et festif.
 
   # Description of your site. This will show up on the front page.
-  subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/stijnvc/holo-alfa">&lt;/&gt; on Github</a>.
+  subtitle: Les Cocksuckers est un groupe de coq'n roll lyonnais foutraque et festif.
 
 author:
-  name: Dr. Jekyll # Change this!
+  name: Martin Delille
 
   # Necessary for contact page
-  email: your@email.com # Change this!
+  email: contact@les-cocksuckers.com
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
   info:
 
-url: http://steinvc.github.io
-baseurl: "/holo-alfa"
+url: https://www.les-cocksuckers.com
+baseurl: "les-cocksuckers"
 
 # language attribute in <html> element.
-lang: en
+lang: fr
 
 # FROM THIS POINT ON EVERYTHING IS OPTIONAL
 
@@ -39,7 +37,7 @@ display-social-icons: false
 # If you want social links to open in a new tab, set this as true
 social-icons-open-newtab: true
 
-footer-text: This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.
+footer-text: Fait avec des os de poulets entassés sur le travail de <a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a>.
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
@@ -63,11 +61,12 @@ text-color: 0, 0, 0 # Original: 0, 0, 0
 #       http://www.colorzilla.com/gradient-editor/#ffffff+0,ffffff+100&0+0,1+100
 background-color: 255, 255, 255 # Original: 255, 255, 255
 
+# ???
 display-author-post-page: true
 display-author-front-page: true
 
 # http://alanwsmith.com/jekyll-liquid-date-formatting-examples
-date_format: "%b %-d, %Y"
+date_format: "%A %-d %B %Y"
 
 # Minimal screen-width after which the navigation will change position from
 # vertical to horizontal.
@@ -116,17 +115,17 @@ paypal:
 # Useful for translating into other languages.
 
 var_on_the_web: On the web
-var_read: Read # Text after each post summary on the homepage.
-var_newer: Newer
-var_older: Older
-var_next_post: Next post
-var_previous_post: Previous post
-var_less_than_a_minute_read: Less than a minute read
-var_min_read: min read # Text after reading time. Example: 5 min read.
-var_post_by: Post by
-var_guest_post_by: Guest post by
-var_your_email: Your email
-var_your_message: Your message
+var_read: Lire # Text after each post summary on the homepage.
+var_newer: Plus récent
+var_older: Plus ancien
+var_next_post: Article suivant
+var_previous_post: Article précédent
+var_less_than_a_minute_read: Moins d'une minute de lecture # => remove
+var_min_read: minute de lecture # Text after reading time. Example: 5 min read. # => remove
+var_post_by: Post by # => remove
+var_guest_post_by: Guest post by # => remove
+var_your_email: Ton mail
+var_your_message: Ton message
 
 
 ##################
