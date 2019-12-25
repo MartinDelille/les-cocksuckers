@@ -18,8 +18,11 @@ author:
   # want it.
   info:
 
-url: https://www.les-cocksuckers.com
-baseurl: "les-cocksuckers"
+# change when moving to https://www.les-cocksuckers.com
+#url: https://www.les-cocksuckers.com
+#baseurl: ""
+url: https://martindelille.github.io/les-cocksuckers
+baseurl: "/les-cocksuckers"
 
 # language attribute in <html> element.
 lang: fr
