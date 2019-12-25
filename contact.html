@@ -3,6 +3,14 @@ layout: page
 title: Contact
 ---
 
+<form action="{{ site.mailchimp-list }}"
+      method="post"
+      id="mc-embedded-subscribe-form"
+      name="mc-embedded-subscribe-form"
+      target="_blank" novalidate>
+    <input type="email" placeholder="{{ site.var_your_email }}" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on">
+    <input type="submit" value="Je m'inscris" name="subscribe" class="heart">
+</form>
 
 <form action="//formspree.io/{{ site.author.email }}"
       method="POST">
