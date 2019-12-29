@@ -1,8 +1,8 @@
 ---
-title: Concert au bar des capucins
-
-summary: TODO
-
+title: Bar des capucins
+place: Lyon (69)
 ---
 
 C'était un super concert.
+
+TODO
